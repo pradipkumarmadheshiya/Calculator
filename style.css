@@ -29,6 +29,9 @@ input{
     margin-bottom: 30px;
     font-size: 40px;
 }
+button:active {
+    box-shadow: inset -5px -5px 15px rgba(255, 255, 255, 0.3), inset 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
 button{
     background: transparent;
     color: white;
