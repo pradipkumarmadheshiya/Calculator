@@ -17,7 +17,7 @@ This is a simple and responsive calculator built using HTML, CSS, and JavaScript
 - **JavaScript**: Functionality of the calculator.
 
 ## Screenshots
-
+![Calculator Screenshot](./images/cal_screnshot.JPG)
 
 ## Contact
 **Name:** Pradip Kumar Madheshiya <br>
